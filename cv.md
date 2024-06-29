@@ -1,7 +1,5 @@
 # Ignat Rohach
-====
 ## Beginner in FrontEnd development=
-====
 [Youtube](https://www.youtube.com/)
 ====
 # About me:
