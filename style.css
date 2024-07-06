@@ -1,0 +1,175 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+html{height:100%}
+body{line-height:1}
+ol,ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
+table{border-collapse:collapse;border-spacing:0}
+
+.wrapper {
+    width: 1000px;
+    height: auto;
+    background-color: #395873;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+nav {
+    box-sizing: border-box;
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    padding: 10px;
+    width: 100%;
+    background-color: #F2E8DF;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+
+.name-photo{
+    display: flex;
+    background-color: #F2E8DF;
+    width: 100%;
+    height: 300px;
+    align-items: center;
+}
+
+img{
+    height: 300px;
+    width: auto;
+    margin-right: 50px;
+}
+
+
+h1, h2{
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+h1{
+    font-size: 60px;
+    padding-right: 30px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+main p {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 25px;
+    margin-left: 20px;
+}
+
+.FR {
+    font-size: 30px;
+}
+
+main {
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+    background-color: #F2E8DF;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+main div {
+
+    margin-bottom: 40px;
+    background-color: #F2E8DF;
+}
+
+main li {
+    list-style-type: square;
+    margin-bottom: 15px;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+code {
+    font-size: 20px;
+}
+
+pre{
+    padding-left: 20px;
+    margin: 0px 20px 0px 20px;
+    background-color: #c9c9c9;
+}
+
+footer {
+    box-sizing: border-box;
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: #F2E8DF;
+}
+
+footer img {
+    height: 50px;
+    width: fit-content;
+}
+
+footer a, span {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.link-rs {
+    width: fit-content;
+}
+
+footer a{
+    width: 135px;
+} 
+
+a {
+    text-decoration: none; 
+    color: black;   
+}
+
+hr {
+    margin-bottom: 20px;
+}
+
+h1, h2, a, span, p, pre, code{
+    color: #26110D;
+}
